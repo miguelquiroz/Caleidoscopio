@@ -12,6 +12,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{611E70
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentos deSoporte", "Documentos deSoporte", "{B869D9E4-F5B2-4168-BD24-A563A5423A7A}"
+	ProjectSection(SolutionItems) = preProject
+		Documentos de soporte\Caleodoscopio.mpp = Documentos de soporte\Caleodoscopio.mpp
+		Documentos de soporte\Diego David Ramirez Hernandez.docx = Documentos de soporte\Diego David Ramirez Hernandez.docx
+		Documentos de soporte\Project - Caleodoscopio.pdf = Documentos de soporte\Project - Caleodoscopio.pdf
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
