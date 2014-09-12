@@ -20,6 +20,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentos deSoporte", "Doc
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mockups", "Mockups", "{1E32F162-CDB3-4DC2-B483-34FACC21420A}"
+	ProjectSection(SolutionItems) = preProject
+		Documentos de soporte\Mockups\Agregar_cat_-_EditorArtículos (6).png = Documentos de soporte\Mockups\Agregar_cat_-_EditorArtículos (6).png
+		Documentos de soporte\Mockups\Agregar_cat_-_EditorContraportada (8).png = Documentos de soporte\Mockups\Agregar_cat_-_EditorContraportada (8).png
+		Documentos de soporte\Mockups\Agregar_cat_-_EditorEventos (7).png = Documentos de soporte\Mockups\Agregar_cat_-_EditorEventos (7).png
+		Documentos de soporte\Mockups\Agregar_cat_-_EditorImágenes (5).png = Documentos de soporte\Mockups\Agregar_cat_-_EditorImágenes (5).png
+		Documentos de soporte\Mockups\Agregar_cat_-_EditorPortada (4).png = Documentos de soporte\Mockups\Agregar_cat_-_EditorPortada (4).png
+		Documentos de soporte\Mockups\LogIn_-_AdminEditor (2).png = Documentos de soporte\Mockups\LogIn_-_AdminEditor (2).png
+		Documentos de soporte\Mockups\Principal_-_Admin (9).png = Documentos de soporte\Mockups\Principal_-_Admin (9).png
+		Documentos de soporte\Mockups\Principal_-_AdminUsuarios (10).png = Documentos de soporte\Mockups\Principal_-_AdminUsuarios (10).png
+		Documentos de soporte\Mockups\Principal_-_Editor (3).png = Documentos de soporte\Mockups\Principal_-_Editor (3).png
+		Documentos de soporte\Mockups\Principal_-_Usuario (1).png = Documentos de soporte\Mockups\Principal_-_Usuario (1).png
+		Documentos de soporte\Mockups\Ver_catalogo (11).png = Documentos de soporte\Mockups\Ver_catalogo (11).png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,5 +48,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E32F162-CDB3-4DC2-B483-34FACC21420A} = {B869D9E4-F5B2-4168-BD24-A563A5423A7A}
 	EndGlobalSection
 EndGlobal
